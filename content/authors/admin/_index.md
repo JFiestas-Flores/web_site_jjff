@@ -21,7 +21,7 @@ highlight_name: true
 interests:
 - Non-market valuation
 - Environmental regulation
-- Impact valuation
+- Impact evaluation
 - Dietary preferences
 - Animal welfare assessment
 
