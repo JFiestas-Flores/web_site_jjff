@@ -9,6 +9,9 @@ education:
   - course: MSc. in Ecological Economics
     institution: Universitat Autònoma de Barcelona
     year: 2016
+  - course: Master in Anthrozoology and Animal Law and Society
+    institution: Universitat Autònoma de Barcelona
+    year: 2015
   - course: BSc in Economics
     institution: Universidad del Pacífico
     year: 2012
@@ -51,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/jerico-fiestas-flores/
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf
+  link: uploads/cv_2.pdf
   
 status:
   icon: ☕️
@@ -63,7 +66,7 @@ title: Jerico Fiestas Flores
 
 I am a PhD Candidate in Agricultural and Resource Economics at the [University of Alberta](www.ualberta.ca), and part of [Future Energy Systems](https://www.futureenergysystems.ca/). I am specializing in non-market valuation, environmental regulation, and experimental economics. I also have experience with impact evaluation and benefit-cost analysis. I have applied this knowledge as a researcher and a public servant in different institutions.
 
-My research aims to make methodological contributions in the modeling of environmental regulations' effects, and in the development of stated preference instruments, including those implemented in developing countries. I have helped interdisciplinary groups to design and/or evaluate public policies that could affect natural areas and non-human animals by providing insights on the policy's effects, as well as the public's support. I also have designed and implemented surveys to understand dietary preferences in developing countries.
+My research aims to make methodological contributions in the modeling of environmental regulations' effects and the development of stated preference instruments, including those implemented in developing countries. I have helped interdisciplinary groups design and/or evaluate public policies that could affect natural areas and non-human animals by providing insights on the policy's effects, as well as the public's support. I also have designed and implemented surveys to understand dietary preferences in developing countries.
 
 
 
