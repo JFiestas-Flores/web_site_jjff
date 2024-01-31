@@ -161,7 +161,7 @@ sections:
   content:
     email: fiestasf@ualberta.ca
     address:
-        street: General Service Building 821, University of Alberta
+        street: General Service Building 563, University of Alberta
         city: Edmonton
         region: AB
         postcode: 'T6G 2H4'
