@@ -9,7 +9,7 @@ education:
   - course: MSc. in Ecological Economics
     institution: Universitat Autònoma de Barcelona
     year: 2016
-  - course: Master in Anthrozoology and Animal Law and Society
+  - course: Master in Anthrozoology
     institution: Universitat Autònoma de Barcelona
     year: 2015
   - course: BSc in Economics
