@@ -13,8 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-publication_types:
-- "3"
+publication_types: ["3"]
 projects:
 - internal-project
 ---
