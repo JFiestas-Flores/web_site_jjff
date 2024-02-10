@@ -6,7 +6,7 @@ title: Revisiting inferred valuation to mitigate social desirability bias - An a
 authors:
 - admin
 
-date: "2023-06-07T00:00:00Z"
+date: "2023-08-08T00:00:00Z"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
