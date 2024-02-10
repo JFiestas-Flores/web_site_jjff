@@ -1,15 +1,10 @@
 ---
-abstract: Alberta’s Oil Sands is the World’s 3rd largest proven oil reserve. About half of the current extraction is by open pit mining, which generates Oil Sands Process Water (OSPW), a complex mixture of solids, residual bitumen, inorganics, and organic constituents. As part of their obligations, Oil Sands companies must treat the OSPW, before it can be released to the environment, as part of an overall reclamation plan for the land and water disturbed by their activities. Using the information available from the Alberta Energy Regulator (AER) and Canada’s Oils Sands Innovation Alliance (COSIA), as well as partnerships with chemical engineers and reclamation experts, we were able to build a mathematical programming model where we can identify trade-offs among different technologies. The model allows us to show how different regulatory standards and approaches for reclaimed OSPW might affect technology choice, costs, and optimal timing of OSPW treatments.
+abstract: Environmental valuation of water and land reclamation activities is one of the many fields where state preferences can provide useful insights for policy-makers. However, Social Desirability Bias (SDB) should be considered as respondents may give an answer to project a good image of themselves. This paper explores the usefulness of Inferred Valuation (IFV) to mitigate SDB in a choice experiment that assesses the willingness to pay (WTP) and willingness to accept (WTA) to treat polluted water from mining activities in Alberta, Canada. We find that IFV does mitigate the SDB by reducing/increasing the reported WTP/WTA, however, we find that the reference groups have a significant effect on the respondent's IVF, as well as their perception of the reference's group income. Additionally, we find that respondents value the treatment time more than the quality of the treated water. Our results are consistent over different specifications and show that IVF can be a useful tool for state preferences.
 
-title: A Dynamic Economic Analysis of Oil Sands Process Water (OSPW) treatment alternatives in Alberta / Working Paper
+title: Revisiting inferred valuation to mitigate social desirability bias - An application to water reclamation. / Job Market Paper
 
 authors:
 - admin
-- Grant Hauer
-- Vic Adamowicz
-- Mohamed Gamal El-Din 
-- M. Anne Naeth
-- Pamela Chelme-Ayala
 
 date: "2023-06-07T00:00:00Z"
 featured: false
@@ -18,9 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-publication_types:
-- "3"
+publication_types: ["3"]
 projects:
 - internal-project
 ---
-
