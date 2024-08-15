@@ -28,7 +28,7 @@ sections:
     items:
     - company: University of Alberta
       company_url: "https://www.ualberta.ca"
-      date_end: ""
+      date_end: "2024-04-15"
       date_start: "2019-09-01"
       description: |2-
           * Strategic Management in Food and Resource Businesses
