@@ -31,7 +31,7 @@ interests:
 organizations:
 - name: University of Alberta
   url: https://www.ualberta.ca
-role: PhD Candidate in Agricultural and Resource Economics
+role: PhD in Agricultural and Resource Economics
 social:
 - icon: envelope
   icon_pack: fas
