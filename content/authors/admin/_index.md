@@ -63,7 +63,7 @@ title: Jerico Fiestas Flores
 
 {style="text-align: justify;"}
 
-I am a PhD in Agricultural and Resource Economics from the [University of Alberta](www.ualberta.ca), where I was part of [Future Energy Systems](https://www.futureenergysystems.ca/). I am have specialized in non-market valuation, environmental regulation, diertary preferences and animal welfare. I also have experience with impact evaluation and benefit-cost analysis. I have applied this knowledge as a researcher and a public servant in different institutions.
+I am a PhD in Agricultural and Resource Economics from the [University of Alberta](www.ualberta.ca), where I was part of [Future Energy Systems](https://www.futureenergysystems.ca/). I have specialized in non-market valuation, environmental regulation, dietary preferences and animal welfare. I also have experience with impact evaluation and benefit-cost analysis. I have applied this knowledge as a researcher and a public servant in different institutions in three continents.
 
 My research aims to make methodological contributions in the modeling of environmental regulations' effects and the development of stated preference instruments, including those implemented in developing countries. I have helped interdisciplinary groups design and/or evaluate public policies that could affect natural areas and non-human animals by providing insights on the policy's effects, as well as the public's support. I also have designed and implemented surveys to understand dietary preferences in developing countries.
 
