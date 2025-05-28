@@ -130,19 +130,19 @@ sections:
 - block: portfolio
    content:
      buttons:
-     - name: All
+    - name: All
        tag: '*'
-     - name: Animal Welfare
+    - name: Animal Welfare
        tag: Animal Welfare
-     - name: Plant-Based preferences
+    - name: Plant-Based preferences
        tag: Plant-Based
-     - name: Environmental education
+    - name: Environmental education
        tag: Environment
      default_button_index: 2
      filters:
        exclude_featured: true
        folders:
-       - project
+      - project
      title: Additional activities
    design:
      columns: "1"
