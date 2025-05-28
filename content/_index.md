@@ -127,7 +127,7 @@ sections:
     columns: "2"
   id: conferences
 
- - block: portfolio
+- block: portfolio
    content:
      buttons:
      - name: All
