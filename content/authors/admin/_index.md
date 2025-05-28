@@ -29,7 +29,7 @@ interests:
 - Animal welfare 
 
 organizations:
-- name: Institute of Environmental Planning!
+- name: Institute of Environmental Planning
   url: https://www.umwelt.uni-hannover.de/en/
 role: Postdoctoral Researcher
 social:
