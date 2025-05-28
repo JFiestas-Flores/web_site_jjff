@@ -63,9 +63,9 @@ title: Jerico Fiestas Flores
 
 {style="text-align: justify;"}
 
-I am a PhD in Agricultural and Resource Economics from the [University of Alberta](www.ualberta.ca), where I was part of [Future Energy Systems](https://www.futureenergysystems.ca/). I have specialized in non-market valuation, environmental regulation, dietary preferences and animal welfare. I also have experience with impact evaluation and benefit-cost analysis. I have applied this knowledge as a researcher and a public servant in different institutions in three continents.
+I am a Postdoctoral researcher at the [Institute for Environmental Planning (IUP)] (https://www.umwelt.uni-hannover.de/de/) at [Leibniz University Hannover] (https://www.uni-hannover.de/de/), where I contribute to the EU Horizon project [VALERECO (Valorization Legumes Related Ecosystem Services)](https://valereco.eu/). I hold a PhD in Agricultural and Resource Economics from the University of Alberta, where I was affiliated with Future Energy Systems. My research specializes in non-market valuation, economic experiments, dietary preferences, and environmental regulation. I have applied these methods in academic and policy settings across three continents, both as a researcher and public servant.
 
-My research aims to make methodological contributions in the modeling of environmental regulations' effects and the development of stated preference instruments, including those implemented in developing countries. I have helped interdisciplinary groups design and/or evaluate public policies that could affect natural areas and non-human animals by providing insights on the policy's effects, as well as the public's support. I also have designed and implemented surveys to understand dietary preferences in developing countries.
+I aim to make methodological contributions to understanding the drivers and constraints that influence consumers’ and farmers’ adoption of plant-based alternatives and animal welfare policies. I also focus on advancing stated preference methods in developing countries and evaluate the impact of public policies in natural areas and non-human animals. I have also led the design and implementation of several public preference surveys on topics such as remediation policies, animal welfare labeling, and biodiversity conservation.
 
 
 
