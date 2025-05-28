@@ -53,7 +53,7 @@ social:
   link: https://www.linkedin.com/in/jerico-fiestas-flores/
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_6.pdf
+  link: uploads/cv_7.pdf
   
 status:
   icon: ☕️
