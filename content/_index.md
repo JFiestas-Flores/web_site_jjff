@@ -117,8 +117,9 @@ sections:
       date_end: ""
       date_start: "2020-05-01"
       description: |2-
-          * AERE Grad Student Engagement Committee, January 2023 - Ongoing
-          * Plant Based U - Canada, September 2022 - Ongoing
+          * Earthshot Prize, Cross-cutting enabler expert, August 2023 - Ongoing
+          * AERE Grad Student Engagement Committee, January 2023 - June 2024
+          * Plant Based U - Canada, September 2022 - March 2024
           * ALES Graduate Student Association, July 2021 - June 2022
           * REES Student Association, July 2020 - June 2023
     title: Conferences and engagement
@@ -161,14 +162,14 @@ sections:
 
 - block: contact
   content:
-    email: fiestasf@ualberta.ca
+    email: fiestas@umwelt.uni-hannover.de
     address:
-        street: General Service Building 563, University of Alberta
-        city: Edmonton
-        region: AB
-        postcode: 'T6G 2H4'
-        country: Canada
-        country_code: CA
+        street: Institut fur Umweltplanung E202
+        city: Hannover
+        region: Lower Saxony
+        postcode: '30419'
+        country: Germany
+        country_code: DE
     
     title: Contact
   design:
