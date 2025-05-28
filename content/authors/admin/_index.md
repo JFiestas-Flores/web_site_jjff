@@ -24,14 +24,14 @@ highlight_name: true
 interests:
 - Non-market valuation
 - Environmental regulation
-- Impact evaluation
+- Economic experiments
 - Dietary preferences
 - Animal welfare 
 
 organizations:
-- name: University of Alberta
-  url: https://www.ualberta.ca
-role: PhD in Agricultural and Resource Economics
+- name: Institute of Environmental Planning!
+  url: https://www.umwelt.uni-hannover.de/en/
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -63,7 +63,7 @@ title: Jerico Fiestas Flores
 
 {style="text-align: justify;"}
 
-I am a Postdoctoral researcher at the [Institute for Environmental Planning (IUP)](https://www.umwelt.uni-hannover.de/de/) at [Leibniz University Hannover](https://www.uni-hannover.de/de/), where I contribute to the EU Horizon project [VALERECO (Valorization Legumes Related Ecosystem Services)](https://valereco.eu/). I hold a PhD in Agricultural and Resource Economics from the [University of Alberta](https://www.ualberta.ca/en/resource-economics-environmental-sociology/index.html), where I was affiliated with [Future Energy Systems](https://www.futureenergysystems.ca/). My research specializes in non-market valuation, economic experiments, dietary preferences, and environmental regulation. I have applied these methods in academic and policy settings across three continents, both as a researcher and public servant.
+I am a Postdoctoral researcher at the [Institute of Environmental Planning (IUP)](https://www.umwelt.uni-hannover.de/de/) at [Leibniz University Hannover](https://www.uni-hannover.de/de/), where I contribute to the EU Horizon project [VALERECO (Valorization Legumes Related Ecosystem Services)](https://valereco.eu/). I hold a PhD in Agricultural and Resource Economics from the [University of Alberta](https://www.ualberta.ca/en/resource-economics-environmental-sociology/index.html), where I was affiliated with [Future Energy Systems](https://www.futureenergysystems.ca/). My research specializes in non-market valuation, economic experiments, dietary preferences, and environmental regulation. I have applied these methods in academic and policy settings across three continents, both as a researcher and public servant.
 
 I aim to make methodological contributions to understanding the drivers and constraints that influence consumers’ and farmers’ adoption of plant-based alternatives and animal welfare policies. I also focus on advancing stated preference methods in developing countries and evaluate the impact of public policies in natural areas and non-human animals. I have also led the design and implementation of several public preference surveys on topics such as remediation policies, animal welfare labeling, and biodiversity conservation.
 
