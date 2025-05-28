@@ -127,28 +127,28 @@ sections:
     columns: "2"
   id: conferences
 
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Animal Welfare
-      tag: Animal Welfare
-    - name: Plant-Based preferences
-      tag: Plant-Based
-    - name: Environmental education
-      tag: Environment
-    default_button_index: 2
-    filters:
-      exclude_featured: true
-      folders:
-      - project
-    title: Additional activities
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: more    
+# - block: portfolio
+#   content:
+#     buttons:
+#     - name: All
+#       tag: '*'
+#     - name: Animal Welfare
+#       tag: Animal Welfare
+#     - name: Plant-Based preferences
+#       tag: Plant-Based
+#     - name: Environmental education
+#       tag: Environment
+#     default_button_index: 2
+#     filters:
+#       exclude_featured: true
+#       folders:
+#       - project
+#     title: Additional activities
+#   design:
+#     columns: "1"
+#     flip_alt_rows: false
+#     view: showcase
+#   id: more
   
 - block: markdown
   content:
