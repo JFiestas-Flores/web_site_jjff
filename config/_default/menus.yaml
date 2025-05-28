@@ -20,8 +20,8 @@ main:
     url: '#conferences'
     weight: 70
   - name: Additional activities
-   url: '#more'
-  weight: 80
+    url: '#more'
+    weight: 80
   - name: Contact
     url: '#contact'
     weight: 90
