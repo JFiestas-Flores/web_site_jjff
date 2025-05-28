@@ -104,6 +104,7 @@ sections:
       date_end: ""
       date_start: "2020-06-01"
       description: |2-
+          * Society for Benefit Cost Analysis (SBCA) European conference, September 2024
           * Society for Benefit Cost Analysis (SBCA) conference, April 2024
           * Canadian Agricultural Economics Association (CAES), July 2023
           * Canadian Resource and Environmental Economics (CREEA) Early Scholar Workshop, June 2023
